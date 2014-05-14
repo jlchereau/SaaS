@@ -1,4 +1,4 @@
 SaaS
 ====
 
-A repository os SaaS solutions
+A repository of SaaS solutions
